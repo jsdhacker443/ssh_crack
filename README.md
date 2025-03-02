@@ -1,0 +1,2 @@
+# ssh_crack
+使用python的paramiko库进行ssh连接尝试，导入密码本进行爆破
